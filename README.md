@@ -31,6 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+~~~
 book.html
 
 <!DOCTYPE html>
@@ -164,6 +165,8 @@ body {
   bottom: 200px;
   right: 0px;
 }
+
+~~~
 
 
 ## OUTPUT:
